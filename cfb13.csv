@@ -1,4 +1,4 @@
-Games,Win,Total.TDs,Yards.Allowed,Off.TDs.Allowed,Total.TDs.Allowed,Yards.Per.Game.Allowed,Opp.First.Downs,Opp.Completions.Allowed,Pass.Yards.Per.Game.Allowed,Rush.Yards.Per.Game.Allowed,Avg.Points.per.Game.Allowed,Points.Per.Game,Opponent.3rd.Percent
+Games,Win,Total_TDs,Yards_Allowed,Off_TDs_Allowed,Total_TDs_Allowed,Yards_Per_Game_Allowed,Opp_First_Downs,Opp_Completions_Allowed,Pass_Yards_Per_Game_Allowed,Rush_Yards_Per_Game_Allowed,Avg_Points_per_Game_Allowed,Points_Per_Game,Opponent_3rd_Percent
 12,5,31,4764,43,44,397,258,238,232.9,164.1,28.6,20.2,0.429
 13,11,65,3725,21,23,286.5,194,197,180.3,106.2,13.9,38.2,0.347
 13,8,57,5214,38,39,401.1,276,269,233.2,167.8,24.2,33.5,0.393
